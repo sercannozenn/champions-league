@@ -1,4 +1,4 @@
-## Champions League Key Study / Service Pattern 
+## Champions League Key Study / Service Pattern | Front : Vue.js
 
 - <u><b>Kurulum Adımları</b></u>
 <ol start="1">
